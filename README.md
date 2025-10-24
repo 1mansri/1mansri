@@ -89,8 +89,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1mansri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=1mansri&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mansri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
@@ -115,15 +113,6 @@
 
 </div>
 
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/1mansri/1mansri/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
@@ -134,8 +123,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumardurgesh.web@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dugresh.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1mansri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-kumar-31b88a246)
 
 </div>
 
@@ -143,9 +131,6 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### ✨ Show some ❤️ by starring some repositories!
 
