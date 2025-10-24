@@ -84,12 +84,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=1mansri&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mansri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1mansri&theme=github_dark&utcOffset=0" alt="Productive Time" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mansri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
