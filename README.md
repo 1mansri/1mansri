@@ -18,13 +18,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Building modern web apps with **Next.js** & **TypeScript**
-- 🌱 Exploring **AI/ML** and **Cloud Architecture**
-- 💡 Passionate about **scalable backend systems**
-- 🎯 **18** public repositories · **4** followers
+- 🔭 Building modern web apps with modern technologies
 - 📅 Coding since **May 2024**
-- 💬 Ask me about **React, Node.js, AWS, or AI**
-- ⚡ Fun fact: I love creating **3D web experiences**
+
 
 <br clear="right"/>
 
