@@ -81,22 +81,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mansri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1mansri&custom_title=Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=1f6feb&point=c9d1d9&area_color=1f6feb&area=true&hide_border=true)
-
-</div>
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
